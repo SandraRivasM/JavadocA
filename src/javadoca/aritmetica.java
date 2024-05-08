@@ -4,7 +4,7 @@ package javadoca;
 /**
  *
  * @author claramolinosaraiz
- 
+
  */
 
 public class aritmetica {

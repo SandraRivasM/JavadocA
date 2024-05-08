@@ -13,7 +13,7 @@ public class operaciones {
      * @return el cociente de la division entre a y b
      * @throws IllegalArgumentException si el divisor es 0
      */
-
+    
     public int modulo(int a, int b) {
         if (b == 0) {
             throw new IllegalArgumentException("El divisor no puede ser cero");
